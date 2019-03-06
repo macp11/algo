@@ -1,0 +1,5 @@
+# wy³¹czenie ze œledzenia katalogu /.idea/
+/.idea/*
+/out/*
+# wy³¹czenie ze œledzenia katalogu /.Lab1.iml/
+Lab1.iml
